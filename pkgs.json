@@ -1,7 +1,7 @@
 {
   "8821cu": "5.12.0.4+git20231215.eb52ece-3",
   "8852be-dkms": "1.15.10.0.5.0-4",
-  "aic8800": "5.0+git20260123.5f7be68d-5",
+  "aic8800": "5.0+git20260123.5f7be68d-6",
   "allwinner-prebuilt-extra": "0.1.11",
   "allwinner-prebuilt": "1.4.10-1",
   "allwinner-profiles": "0.2.9",
@@ -20,7 +20,7 @@
   "edk2-qualcomm": "0.1.0-6",
   "edl-ng": "v1.4.1",
   "embloader": "0.6",
-  "fastrpc": "1.0.5-2",
+  "fastrpc": "1.0.6-1",
   "firmware-realtek": "20241210-1",
   "gl4es": "1.1.6",
   "gnome-control-center": "1-43.6-2-deb12u1radxa1",
