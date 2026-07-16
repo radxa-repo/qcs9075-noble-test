@@ -1,7 +1,7 @@
 {
   "8821cu": "5.12.0.4+git20231215.eb52ece-3",
   "8852be-dkms": "1.15.10.0.5.0-4",
-  "aic8800": "5.0+git20260123.5f7be68d-6",
+  "aic8800": "5.0+git20260123.5f7be68d-7",
   "allwinner-prebuilt-extra": "0.1.11",
   "allwinner-prebuilt": "1.4.10-1",
   "allwinner-profiles": "0.2.9",
@@ -41,6 +41,7 @@
   "linux-rk356x": "5.10.160-39",
   "linux-sky1": "6.6.89-5",
   "linux-stable": "6.1.68-3",
+  "llama.cpp": "0.0.10034-1",
   "mesa": "git2407100600.ae3e0a.oibaf.j",
   "mpv-build": "2025.03.23.8d2ed139cd-1",
   "mraa": "2.2.0-7",
