@@ -10,3 +10,4 @@ rm -f "$keyring"
 echo "deb [signed-by=/usr/share/keyrings/radxa-archive-keyring.gpg] https://radxa-repo.github.io/qcs9075-noble-test/ qcs9075-noble-test main" | \
     sudo tee /etc/apt/sources.list.d/70-qcs9075-noble-test.list
 sudo apt-get update
+
